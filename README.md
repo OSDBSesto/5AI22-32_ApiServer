@@ -13,3 +13,5 @@ Install  **all** node_modules after deletion: `npm install`
 *remember to delete all node_modules before transferring the project*
 
 **use .gitignore file to ignore node_modules**
+***
+run server: `node [entry point]` *default index.js*
